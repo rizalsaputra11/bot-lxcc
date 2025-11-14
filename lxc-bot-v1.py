@@ -14,8 +14,8 @@ import time
 
 # Load environment variables
 DISCORD_TOKEN = os.getenv('DISCORD_TOKEN')
-MAIN_ADMIN_ID = int(os.getenv('MAIN_ADMIN_ID', '1210291131301101618'))
-VPS_USER_ROLE_ID = int(os.getenv('VPS_USER_ROLE_ID', '1210291131301101618'))
+MAIN_ADMIN_ID = int(os.getenv('MAIN_ADMIN_ID', '1378436095783735397'))
+VPS_USER_ROLE_ID = int(os.getenv('VPS_USER_ROLE_ID', '1431495048754761910'))
 DEFAULT_STORAGE_POOL = os.getenv('DEFAULT_STORAGE_POOL', 'default')
 CPU_THRESHOLD = int(os.getenv('CPU_THRESHOLD', '90'))
 RAM_THRESHOLD = int(os.getenv('RAM_THRESHOLD', '90'))
