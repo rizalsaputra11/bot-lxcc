@@ -78,3 +78,7 @@ WantedBy=multi-user.target
 
 sudo systemctl daemon-reload
 sudo systemctl restart unixbot
+
+
+pip install discord
+pip install PyNaCl
